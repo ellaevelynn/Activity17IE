@@ -36,16 +36,16 @@ Working together, score each story on effort, then combines effort with user val
 
 | ID | Short name | User value | Story points | Priority score | Rank |
 | --- | --- | --- | --- | --- | --- |
-| US1 | University login | 3 | 2 |  |  |
-| US2 | See free rooms | 3 | 2 |  |  |
-| US3 | Book a time slot | 3 | 5|  |  |
-| US4 | Cancel / change booking | 2 | 3|  |  |
-| US5 | Booking reminder | 2 | 3 |  |  |
-| US6 | Filter rooms | 2 | 3|  |  |
-| US7 | Invite group members | 2 | 3|  |  |
-| US8 | Usage report | 1 | 2 |  |  |
-| US9 | Rate a room | 1 | 2 |  |  |
-| US10 | Dark mode | 1 | 1 |  |  |
+| US1 | University login | 3 | 2 | 1.5| 1 |
+| US2 | See free rooms | 3 | 2 | 1.5  | 2 |
+| US3 | Book a time slot | 3 | 5|  .6 | 3 |
+| US4 | Cancel / change booking | 2 | 3| 1.5  | 4 |
+| US5 | Booking reminder | 2 | 3 |  1.5 | 9 |
+| US6 | Filter rooms | 2 | 3| 1.5 | 5|
+| US7 | Invite group members | 2 | 3| 1.5 | 6 |
+| US8 | Usage report | 1 | 2 | .5 | 7 |
+| US9 | Rate a room | 1 | 2 | .5 | 8 |
+| US10 | Dark mode | 1 | 1 | 1 | 10 |
 | **Total** |  |  |  |  |  |
 
 # Sprint Planning
